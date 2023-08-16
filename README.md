@@ -1,5 +1,5 @@
 The program in the file "Multiple_regression.py" executes multiple linear regression without the use of "OneHotEncoder" which is used while
-analysing the categorical data (Eg : Here, Company and Car names is categorical data).
+analysing the categorical data (Eg : Here, Company and Car name is categorical data).
 
 The program takes the input of the company and the car name and at a particular volume (also an input), it predicts the "CO2" emission of the vehicle.
 
